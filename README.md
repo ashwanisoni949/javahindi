@@ -5,5 +5,5 @@
 ```
 window.alert('this is a alert bodx');
 ```
-![javascript-alert](https://user-images.githubusercontent.com/95131623/143727744-b3fcef0f-4f4d-47a0-b34f-13df4d2b1c81.png)
 ![2](https://user-images.githubusercontent.com/95131623/143728671-8c36db92-d95b-4779-a0fc-4181a6c32c33.jpg)
+![1](https://user-images.githubusercontent.com/95131623/143728699-feb03b26-789a-49bb-8551-ced15c5276e2.jpg)
